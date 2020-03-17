@@ -1,0 +1,40 @@
+body{
+    background-color: #222;
+}
+.App {
+  text-align: center;
+}
+
+.App-header {
+  height: 100px;
+  margin: 10px;
+  color: white;
+  font-size: 30px;
+}
+
+.Snake-container {
+  width: 50vw;
+  height: 60vh;
+  background-color: white; 
+  margin-left: 25vw;
+  margin-right: 25vw;
+  border-radius: 25px;
+}
+
+.Snake-row {
+ width:50vw;
+ height:3vh;
+ border-style: solid;
+}
+
+.Snake-column {
+
+}
+
+.Snake {
+  width: 10vw;
+  height: 3vh;
+  background-color: black;
+  border-radius: 25px;
+  background-color: green;
+}
